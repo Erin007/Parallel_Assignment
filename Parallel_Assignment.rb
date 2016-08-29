@@ -31,4 +31,4 @@ puts "value2 = #{value2}" #<-- 50
 
 value1, value2 = array1, array2 #<-- value1 = array1 value2 = array2 Ruby knows that we want to store the whole array in the variable
 
-v1 = 3, 4, 5 #<--- makes an array 
+v1 = 3, 4, 5 #<--- makes an array v1 = [3, 4, 5]
